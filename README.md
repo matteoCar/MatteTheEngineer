@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MatteTheEngineer
+- 👋 Hi, I’m @MatteoCarretta
 - 👀 I’m interested in computer science, tecnology and sports
 - I'm currently studying computer engineering at the university of Padua
 - 🌱 I’m currently learning Java and C++
